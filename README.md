@@ -18,8 +18,11 @@ Emotion recognition is a CLI tool that sends an image from local computer to Azu
 
 ## Usage
 1. Get the API key from Azure and create a file with the key called `.api_key.txt`
+
 2. To generate an image with the confidence in each emotion and display it
+
 `python main.py <image path>`
+
 3. To exit the program, press any button on your computer. 
 
 ## Author
