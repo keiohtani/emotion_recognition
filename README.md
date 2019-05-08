@@ -1,6 +1,7 @@
-
 # Emotion Recognition
 Emotion recognition in Python using Azure's Cognitive Service
+
+![ScreenShot](sample_image.jpg)
 
 ## Description
 Emotion recognition is a CLI tool that sends an image from local computer to Azure’s Cognitive Service API and displays the picture with the confidence of each emotion. The image is displayed with squares around detected faces with the confidence level of five emotions,  happiness, sadness, neutral, contempt, and disgust. 
