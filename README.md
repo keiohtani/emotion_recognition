@@ -11,11 +11,16 @@ Emotion recognition is a CLI tool that sends an image from local computer to Azu
 - Python2
 - Opencv
 
+
 ## Setup
 - Set up the Python2 environment (whatever python2 version you have)
+
 `pyenv install anaconda2-2018.12`
+
 - Install Opencv
+
 `conda install opencv`
+
 
 ## Usage
 1. Get the API key from Azure and create a file with the key called `.api_key.txt`
@@ -26,11 +31,14 @@ Emotion recognition is a CLI tool that sends an image from local computer to Azu
 
 3. To exit the program, press any button on your computer. 
 
+
 ## Author
 [@keiohtani](https://github.com/keiohtani)
 
+
 ## Reference
 - [ms\_emotion.py](https://gist.github.com/JotaroS/ae3a56a91a16aa44635b1e02a7af67cd)
+
 
 ## Licence
 This software is released under the MIT License, see LICENSE.
